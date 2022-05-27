@@ -1,5 +1,5 @@
 # Introduction-to-Economics
-Note of ECON1001
+Some notes of ECON1001
 
 **Time**: 2022 spring
 
