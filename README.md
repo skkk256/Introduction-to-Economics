@@ -5,8 +5,10 @@ Some notes of ECON1001
 
 **Textbook**: 曼昆 经济学原理
 
-# 关键知识点跳转
-## 宏观经济学部分
+
+
+## 关键知识点跳转
+### 宏观经济学部分
 | 知识点                                                       | 对应Slides章节                                               | 关键字                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [GDP的组成部分](https://github.com/skkk256/Introduction-to-Economics/blob/main/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6.md#232-gdp) | [Lecture 11](https://github.com/skkk256/Introduction-to-Economics/raw/main/slides/lecture11.pdf) | $Y=C+I+G+NX$; 存货的情况; 购买外国产品的情况; 最终产品; $GDP$平减指数 |
